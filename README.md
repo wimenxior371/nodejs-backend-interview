@@ -53,4 +53,4 @@ Please read Specification before using it.
 
 ## Author
 
-[My Linkedin](https://www.linkedin.com/in/webino/)
+[My Linkedin](https://www.linkedin.com/in/martinlucka/)
